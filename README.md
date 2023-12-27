@@ -1,0 +1,1 @@
+Este projeto é baseado no algoritmo genético feito em C que fiz anteriormente, estou refazendo em C++ com intuito de aprender os padrões da linguagem. Estou utilizando a IDE CLion Nova pois achei de fácil uso.
